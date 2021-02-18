@@ -10,14 +10,14 @@ I then initialized an array called "notesData" to collect all notes that a user 
 
 ## Usage
 When a user arrives at my Note Taker app, they are given the option to click the "Get Started" button on index.html.
-![image of index.html](./public/assets/images/screenshot-1.png)
+![image of index.html](./public/assets/images/screenshot-1.PNG)
 
 When they click this button, they are brought to notes.html where they can view previous notes they submitted in a sidebar, and write the "title" and "text" for a new note and save it to the sidebar (i.e., the "notesData" array).
-![image of notes.html](./public/assets/images/screenshot-2.png)
+![image of notes.html](./public/assets/images/screenshot-2.PNG)
 
 If a user wants to review a previously submitted note, they click on the particular note and are able to see both the title and text, and if they want to delete a note they simply click the trashcan icon next to the note. Finally, if a user wants to go back to index.html they can click on the "Note Taker" icon in the top-left corner of the page.
-![second image of notes.html](./public/assets/images/screenshot-3.png)
-![third image of notes.html](./public/assets/images/screenshot-4.png)
+![second image of notes.html](./public/assets/images/screenshot-3.PNG)
+![third image of notes.html](./public/assets/images/screenshot-4.PNG)
 
 
 ## Credits
