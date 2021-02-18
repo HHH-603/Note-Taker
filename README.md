@@ -1,7 +1,7 @@
 # Note-Taker
 
 ## Description
-This is my Note Taking app, which allows users to write, save, and delete notes that they write. Specifically, this app uses an Express backend to save and retrieve note data from a JSON file. I designed this app so that users could manage any/all notes they make from a single location, and gives them the tools to both (1) write new notes, (2) view all previous notes, and (3) delete any given note; to summarize, this app will give users a useful tool that will help them keep track of anything they want to submit as a note.
+This is my Note Taking app, which allows users to write, save, and delete notes that they write. Specifically, this app uses an Express backend to save and retrieve note data from a JSON file. I designed this app so that users could manage any/all notes they make from a single location, and gives them the tools to both (1) write new notes, (2) view all previous notes, and (3) delete any given note; to summarize, this app will give users a useful tool that will help them keep track of anything they want to submit as a note. Please feel free to view my deployed app [here](https://hank-holmes-note-taker.herokuapp.com/).
 
 ## Installation
 For this assignment, I needed to install npm and use the "express", "path", and "fs" dependencies in my server.js file. I then setup my express app, established a port on my computer for this app to use, and then setup the express app to handle data parsing using express.json, express.urlencoded, and express.static (which serves my CSS and JavaScript files as static, so that my notes.html files render properly).
